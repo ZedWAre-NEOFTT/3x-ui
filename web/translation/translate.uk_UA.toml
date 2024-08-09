@@ -68,11 +68,13 @@
 "xray" = "Конфігурації Xray"
 "logout" = "Вийти"
 "link" = "Керувати"
+"githublink" = "Адреса проекту Github"
 
 [pages.login]
 "hello" = "Привіт"
 "title" = "Ласкаво просимо"
 "loginAgain" = "Ваш сеанс закінчився, увійдіть знову"
+"info" = "3X-UI for Alpine by ZedWAre"
 
 [pages.login.toasts]
 "invalidFormData" = "Формат вхідних даних недійсний."
