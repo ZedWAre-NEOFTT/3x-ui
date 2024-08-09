@@ -68,11 +68,13 @@
 "xray" = "Xray Yapılandırmaları"
 "logout" = "Çıkış Yap"
 "link" = "Yönet"
+"githublink" = "Github proje adresi"
 
 [pages.login]
 "hello" = "Merhaba"
 "title" = "Hoş Geldiniz"
 "loginAgain" = "Oturum süreniz doldu, lütfen tekrar giriş yapın"
+"info" = "3X-UI for Alpine by ZedWAre"
 
 [pages.login.toasts]
 "invalidFormData" = "Girdi verisi formatı geçersiz."
