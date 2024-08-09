@@ -68,11 +68,13 @@
 "xray" = "Настройки Xray"
 "logout" = "Выход"
 "link" = "Менеджмент"
+"githublink" = "Адрес проекта Github"
 
 [pages.login]
 "hello" = "Привет"
 "title" = "Добро пожаловать"
 "loginAgain" = "Время пребывания в сети вышло. Пожалуйста, войдите в систему снова"
+"info" = "3X-UI for Alpine by ZedWAre"
 
 [pages.login.toasts]
 "invalidFormData" = "Недопустимый формат данных"
