@@ -68,11 +68,13 @@
 "xray" = "Konfigurasi Xray"
 "logout" = "Keluar"
 "link" = "Kelola"
+"githublink" = "Alamat proyek Github"
 
 [pages.login]
 "hello" = "Halo"
 "title" = "Selamat Datang"
 "loginAgain" = "Sesi Anda telah berakhir, harap masuk kembali"
+"info" = "3X-UI for Alpine by ZedWAre"
 
 [pages.login.toasts]
 "invalidFormData" = "Format data input tidak valid."
