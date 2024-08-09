@@ -68,11 +68,13 @@
 "logout" = "Đăng xuất"
 "xray" = "Cài đặt Xray"
 "link" = "Quản lý"
+"githublink" = "Địa chỉ dự án Github"
 
 [pages.login]
 "hello" = "Xin chào"
 "title" = "Chào mừng"
 "loginAgain" = "Thời hạn đăng nhập đã hết. Vui lòng đăng nhập lại."
+"info" = "3X-UI for Alpine by ZedWAre"
 
 [pages.login.toasts]
 "invalidFormData" = "Dạng dữ liệu nhập không hợp lệ."
