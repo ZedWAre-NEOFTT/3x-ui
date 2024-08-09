@@ -68,11 +68,13 @@
 "xray" = "پیکربندی ایکس‌ری"
 "logout" = "خروج"
 "link" = "مدیریت"
+"githublink" = "آدرس پروژه Github"
 
 [pages.login]
 "hello" = "سلام"
 "title" = "خوش‌آمدید"
 "loginAgain" = "مدت زمان استفاده به‌اتمام‌رسیده، لطفا دوباره وارد شوید"
+"info" = "3X-UI for Alpine by ZedWAre"
 
 [pages.login.toasts]
 "invalidFormData" = "اطلاعات به‌درستی وارد نشده‌است"
