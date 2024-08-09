@@ -68,11 +68,13 @@
 "xray" = "Ajustes Xray"
 "logout" = "Cerrar Sesión"
 "link" = "Gestionar"
+"githublink" = "Dirección del proyecto Github"
 
 [pages.login]
 "hello" = "Hola"
 "title" = "Bienvenido"
 "loginAgain" = "El límite de tiempo de inicio de sesión ha expirado. Por favor, inicia sesión nuevamente."
+"info" = "3X-UI for Alpine by ZedWAre"
 
 [pages.login.toasts]
 "invalidFormData" = "El formato de los datos de entrada es inválido."
