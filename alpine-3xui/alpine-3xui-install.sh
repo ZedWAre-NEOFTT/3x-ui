@@ -51,7 +51,7 @@ install_3x_ui() {
   if [ ! -d "3x-ui" ]; then
   echo ""
   echo "正在获取 3X-UI 文件"
-    git clone https://github.com/ZedWAre-NEOFT/3x-ui.git
+    git clone https://github.com/MHSanaei/3x-ui.git
   else
     echo ""
     echo "您似乎已经安装了 3X-UI for Alpine"
